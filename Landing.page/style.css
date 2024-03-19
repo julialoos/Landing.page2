@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1e404d    ;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 46px;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.imagem {
+    text-align: center;
+    transform: scale(1.46, 1);
+}
+
+.descricao {
+    padding: 55px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+.formulario {
+    background-color: silver;
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    margin: auto;
+    width: 500px;
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid silver;
+}
+
+h3{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    text-align: center;
+    color: #fff;
+    background-color: #1e404d  ;
+}
